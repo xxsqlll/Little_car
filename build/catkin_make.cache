@@ -1,0 +1,2 @@
+lubot_slam-master:ros_arduino_bridge/ros_arduino_bridge:ros_arduino_bridge/ros_arduino_firmware:ros_arduino_bridge/ros_arduino_msgs:ros_arduino_bridge/ros_arduino_python:rplidar_ros-master
+-DCATKIN_DEVEL_PREFIX=/home/birdy/turtlebot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/birdy/turtlebot_ws/install -G Unix Makefiles
